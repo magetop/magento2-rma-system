@@ -1,6 +1,6 @@
-# Magento 2 RMA Extension by MageTop
+# Magento 2 RMA Extension by Magetop
 
-**Magento 2 RMA Extension | Product Return & Refund System** by MageTop allows the customer to create return request for the purchased products. Return merchandise authorization module also allow guest user for RMA form. A customer can create a shipping label for return/exchange products.
+**Magento 2 RMA Extension | Product Return & Refund System** by Magetop allows the customer to create return request for the purchased products. Return merchandise authorization module also allow guest user for RMA form. A customer can create a shipping label for return/exchange products.
 
 ## Highlight features
 
@@ -21,13 +21,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-rma-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full/rmasystem
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
