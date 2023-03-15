@@ -24,8 +24,8 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-rma-extension.html
-- Frontend demo : https://magento2.demo.magetop.com/demo-full/rmasystem
-- Backend demo : https://magento2.demo.magetop.com/demo-full/admin
+- Frontend demo : https://demo.magetop.com/demo-full/rmasystem
+- Backend demo : https://demo.magetop.com/demo-full/admin
 
 ## Support & contact info
 
